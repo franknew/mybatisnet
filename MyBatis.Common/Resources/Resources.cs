@@ -47,7 +47,7 @@ namespace MyBatis.Common.Resources
 	/// (use the resource attribute) 
 	/// or from any valid URL (use the url attribute). 
 	/// For example,to load a fixed path file, use:
-	/// &lt;properties url=”file:///c:/config/my.properties” /&gt;
+	/// &lt;properties url=”file:///c:/config/my.properties?/&gt;
 	/// </summary>
 	public class Resources
 	{
